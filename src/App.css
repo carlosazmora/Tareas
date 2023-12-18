@@ -11,16 +11,21 @@ body {
   margin-top: 40px;
 }
 
-.aplicacion-tareas {
+h1 {
+  color: #1b1b32;
+  font-size: 25px;
+  text-align: center;
+  margin: 20px 0;
+}
+
+.Principal {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
   align-items: center;
 }
 
-/* Listas de Tareas */
-
-.tareas-lista-principal {
+.Lista {
   width: 600px;
   min-height: 500px;
   background-color: #d0d0d5;
