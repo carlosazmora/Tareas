@@ -1,0 +1,10 @@
+.Saludo {
+  font-weight: bold;
+  font-size: 25px;
+  text-align: center;
+  margin: 20px 0;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
