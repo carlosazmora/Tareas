@@ -48,6 +48,9 @@
 /* Tarea Completada */
 
 .Contenedor.completada {
-  background-color: #5a01a7;
+  background-color: #5a01a7;  
+}
+
+.Contenedor.completada > .Texto{
   text-decoration: line-through;
 }
